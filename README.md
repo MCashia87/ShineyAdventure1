@@ -1,2 +1,3 @@
 # ShineyAdventure1
 Still trying to understand how this works...
+Ehm... I'm mildly (very) confused........!
